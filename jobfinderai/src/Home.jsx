@@ -58,7 +58,7 @@ const Home = () => {
 
   return (
     <div className="p-4 md:p-8 bg-gray-100 min-h-screen">
-      <h2 className="text-2xl font-bold text-center mb-6 text-gray-800">Find AI Jobs</h2>
+      <h2 className="text-2xl font-bold text-center mb-6 text-gray-800">Your Jobs Finder</h2>
       <JobSearchForm
         formData={formData}
         handleChange={handleChange}
